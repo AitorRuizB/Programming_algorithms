@@ -1,9 +1,9 @@
 # 👁️ Computer Vision & 3D Perception
 
 <p align="center">
-  <img src="[https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)" alt="Python">
-  <img src="[https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)" alt="OpenCV">
-  <img src="[https://img.shields.io/badge/Open3D-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white](https://img.shields.io/badge/Open3D-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)" alt="Open3D">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/Open3D-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Open3D">
 </p>
 
 ## 📌 Overview
